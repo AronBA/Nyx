@@ -1,5 +1,5 @@
 # < NYX >
-a simple Dependency Injection Container which uses runtime reflexion written in Java  
+a simple Dependency Injection Container, which uses runtime reflexion, written in Java  
 
 note: This is a Project used to understand the concept of DI and is not Production ready
 
